@@ -9,6 +9,6 @@
 - 🔭 I’m currently working on StrangeTalk, AFTG
 - 🌱 I’m currently learning Data Science, DSA, DevOps.
 - 💬 Ask me about any Technical queries
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhisheksahubpl)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhi-dev91)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I build or I sleep.
